@@ -1,12 +1,17 @@
 # 🍷 Alcohol Consumption & Mental Health Analysis (India)
 
-## 📊 Overview
+🚀 A data-driven analysis exploring the relationship between alcohol consumption and mental health indicators such as stress, depression, and suicide rates across India.
 
-This project analyzes alcohol consumption patterns in India and their impact on mental health indicators such as stress, depression, tobacco usage, and suicide rates.
-
-Using Power BI and real-world datasets, this project provides insights to support data-driven public health decisions.
+📊 Built using Power BI, real-world datasets, and advanced data modeling techniques.
 
 ---
+
+## 🔥 Key Highlights
+- 📍 State-wise behavioral analysis
+- 📈 Correlation between alcohol & mental health
+- 👥 High-risk age group identification
+- 📊 Interactive Power BI dashboard
+
 
 ## 🎯 Objectives
 
